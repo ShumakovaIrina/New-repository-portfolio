@@ -1,5 +1,5 @@
 Юпитер ноутбук по тестовому заданию с кодами  и ссылка на дашборд
-https://public.tableau.com/shared/KB2J8NBMZ?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/.30361614/viz/l_16831836026470/Dashboard1?publish=yes
 
 
 
